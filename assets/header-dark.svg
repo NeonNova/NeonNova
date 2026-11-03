@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="290" viewBox="0 0 880 290"><style>
+.m{font:11px "SF Mono",ui-monospace,Menlo,Consolas,monospace;letter-spacing:.08em}
+.ms{font:9.5px "SF Mono",ui-monospace,Menlo,Consolas,monospace;letter-spacing:.1em}
+.s{font:400 60px "Cormorant Garamond","Didot","Bodoni 72",Georgia,serif;letter-spacing:-.01em}
+.s3{font:400 40px "Cormorant Garamond","Didot","Bodoni 72",Georgia,serif}
+.i{font:italic 400 19px "Cormorant Garamond","Didot","Bodoni 72",Georgia,serif}
+.i2{font:italic 400 16px "Cormorant Garamond","Didot","Bodoni 72",Georgia,serif}
+.c{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+</style>
+<text x="48" y="44" class="m" fill="#9198a1">NEONNOVA / ARCHIVE</text>
+<text x="440" y="44" text-anchor="middle" class="m" fill="#9198a1">SPEC SHEET — 2026</text>
+<text x="832" y="44" text-anchor="end" class="m" fill="#9198a1">N° 26/11</text>
+<line x1="48" y1="60" x2="832" y2="60" stroke="#3d444d"/>
+<text x="44" y="160" class="s" fill="#f0f6fc">aditya washikar</text>
+<text x="48" y="196" class="i" fill="#9198a1">mostly post-training data.</text>
+<line x1="620" y1="88" x2="620" y2="176" stroke="#3d444d"/>
+<text x="640" y="104" class="ms" fill="#9198a1">FOCUS</text><text x="832" y="104" text-anchor="end" class="ms" fill="#f0f6fc">RL POST-TRAINING DATA</text><text x="640" y="126" class="ms" fill="#9198a1">PREV</text><text x="832" y="126" text-anchor="end" class="ms" fill="#f0f6fc">BLACKROCK</text><text x="640" y="148" class="ms" fill="#9198a1">SIDE</text><text x="832" y="148" text-anchor="end" class="ms" fill="#f0f6fc">MACOS TOOLS</text><text x="640" y="170" class="ms" fill="#9198a1">STATUS</text><text x="832" y="170" text-anchor="end" class="ms" fill="#f0f6fc">BUILDING<tspan class="c" fill="#4493f8"> █</tspan></text>
+<line x1="48" y1="226" x2="832" y2="226" stroke="#3d444d"/>
+<style>.t{transform-box:fill-box;animation:tk 55s linear infinite}@keyframes tk{to{transform:translateX(-50%)}}</style><clipPath id="cp"><rect x="48" y="230" width="784" height="30"/></clipPath><g clip-path="url(#cp)"><text x="48" y="249" class="m t" fill="#9198a1">IF AI LABS ARE THE JET ENGINES, DATA IS THE OIL  ●  RL POST-TRAINING DATA  ●  AGENTIC ENVIRONMENTS  ●  PAPERMD — NATIVE MACOS  ●  L&#x27;ARDOISE — 52 WEEKS  ●  FOOD · FASHION · FILM · FOOTBALL  ●  IF AI LABS ARE THE JET ENGINES, DATA IS THE OIL  ●  RL POST-TRAINING DATA  ●  AGENTIC ENVIRONMENTS  ●  PAPERMD — NATIVE MACOS  ●  L&#x27;ARDOISE — 52 WEEKS  ●  FOOD · FASHION · FILM · FOOTBALL  ●  </text></g>
+<line x1="48" y1="264" x2="832" y2="264" stroke="#3d444d"/></svg>

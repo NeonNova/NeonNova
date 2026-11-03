@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="440" viewBox="0 0 880 440"><style>
+.m{font:11px "SF Mono",ui-monospace,Menlo,Consolas,monospace;letter-spacing:.08em}
+.ms{font:9.5px "SF Mono",ui-monospace,Menlo,Consolas,monospace;letter-spacing:.1em}
+.s{font:400 60px "Cormorant Garamond","Didot","Bodoni 72",Georgia,serif;letter-spacing:-.01em}
+.s3{font:400 40px "Cormorant Garamond","Didot","Bodoni 72",Georgia,serif}
+.i{font:italic 400 19px "Cormorant Garamond","Didot","Bodoni 72",Georgia,serif}
+.i2{font:italic 400 16px "Cormorant Garamond","Didot","Bodoni 72",Georgia,serif}
+.c{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+</style><g transform="translate(0 0)">
+<rect x=".5" y=".5" width="429" height="209" fill="none" stroke="#d1d9e0"/>
+<text x="24" y="34" class="ms" fill="#0969da">LOOK 01</text>
+<text x="406" y="34" text-anchor="end" class="ms" fill="#59636e">SWIFT · 2026</text>
+<text x="22" y="98" class="s3" fill="#1f2328">paperMD</text>
+<text x="24" y="128" class="i2" fill="#59636e">a native macOS markdown editor.</text>
+<text x="24" y="148" class="i2" fill="#59636e">swiftui + nstextview. no electron.</text>
+<line x1="24" y1="170" x2="406" y2="170" stroke="#d1d9e0"/>
+<text x="24" y="190" class="ms" fill="#59636e">GITHUB.COM/NEONNOVA/PAPERMD</text>
+<text x="406" y="190" text-anchor="end" class="ms" fill="#0969da">→</text></g><g transform="translate(450 0)">
+<rect x=".5" y=".5" width="429" height="209" fill="none" stroke="#d1d9e0"/>
+<text x="24" y="34" class="ms" fill="#0969da">LOOK 02</text>
+<text x="406" y="34" text-anchor="end" class="ms" fill="#59636e">NEXT.JS · MDX · 2026</text>
+<text x="22" y="98" class="s3" fill="#1f2328">l&#x27;ardoise</text>
+<text x="24" y="128" class="i2" fill="#59636e">a 52-week cooking school for two.</text>
+<text x="24" y="148" class="i2" fill="#59636e">one meal, every weekend.</text>
+<line x1="24" y1="170" x2="406" y2="170" stroke="#d1d9e0"/>
+<text x="24" y="190" class="ms" fill="#59636e">GITHUB.COM/NEONNOVA/LARDOISE</text>
+<text x="406" y="190" text-anchor="end" class="ms" fill="#0969da">→</text></g><g transform="translate(0 230)">
+<rect x=".5" y=".5" width="429" height="209" fill="none" stroke="#d1d9e0"/>
+<text x="24" y="34" class="ms" fill="#0969da">LOOK 03</text>
+<text x="406" y="34" text-anchor="end" class="ms" fill="#59636e">TYPESCRIPT · 2025</text>
+<text x="22" y="98" class="s3" fill="#1f2328">typify</text>
+<text x="24" y="128" class="i2" fill="#59636e">a typing test you play to music.</text>
+<text x="24" y="148" class="i2" fill="#59636e">type to the beat.</text>
+<line x1="24" y1="170" x2="406" y2="170" stroke="#d1d9e0"/>
+<text x="24" y="190" class="ms" fill="#59636e">GITHUB.COM/NEONNOVA/TYPIFY</text>
+<text x="406" y="190" text-anchor="end" class="ms" fill="#0969da">→</text></g><g transform="translate(450 230)">
+<rect x=".5" y=".5" width="429" height="209" fill="none" stroke="#d1d9e0"/>
+<text x="24" y="34" class="ms" fill="#0969da">LOOK 04</text>
+<text x="406" y="34" text-anchor="end" class="ms" fill="#59636e">SHELL · ZSH · 2026</text>
+<text x="22" y="98" class="s3" fill="#1f2328">the rice</text>
+<text x="24" y="128" class="i2" fill="#59636e">one palette, the whole desktop.</text>
+<text x="24" y="148" class="i2" fill="#59636e">a single command re-themes every app.</text>
+<line x1="24" y1="170" x2="406" y2="170" stroke="#d1d9e0"/>
+<text x="24" y="190" class="ms" fill="#59636e">PRIVATE — DOTFILES</text>
+<text x="406" y="190" text-anchor="end" class="ms" fill="#0969da">○</text></g></svg>
