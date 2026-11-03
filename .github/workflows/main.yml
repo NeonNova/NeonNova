@@ -15,6 +15,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # before snk: its container creates dist/ as root
+      - name: Ledger
+        run: python3 scripts/ledger.py dist ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Contribution graph
         uses: Platane/snk@v3
         with:
@@ -22,11 +28,6 @@ jobs:
           outputs: |
             dist/contrib-dark.svg?color_snake=#f0f6fc&color_dots=#151b23,#0c2d6b,#1f6feb,#4493f8,#a5d6ff&color_dot_border=#0d1117
             dist/contrib-light.svg?color_snake=#1f2328&color_dots=#eff2f5,#b6e3ff,#54aeff,#0969da,#0a3069&color_dot_border=#ffffff
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Ledger
-        run: python3 scripts/ledger.py dist ${{ github.repository_owner }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
